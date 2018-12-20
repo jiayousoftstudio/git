@@ -1,11 +1,11 @@
-ÔÚÃüÁîĞĞÉÏ´´½¨Ò»¸öĞÂµÄ´æ´¢¿â
-echo¡°#git¡±>> README.md 
+åœ¨å‘½ä»¤è¡Œä¸Šåˆ›å»ºä¸€ä¸ªæ–°çš„å­˜å‚¨åº“<br/>
+echoâ€œ#gitâ€>> README.md 
 git init 
 git add README.md 
-git commit -m¡°first commit¡± 
+git commit -mâ€œfirst commitâ€ 
 git remote add origin https://github.com/jiayousoftstudio/git.git
  git push -u origin master
 
-´ÓÃüÁîĞĞÍÆËÍÏÖÓĞ´æ´¢¿â
+ä»å‘½ä»¤è¡Œæ¨é€ç°æœ‰å­˜å‚¨åº“
 git remote add origin https://github.com/jiayousoftstudio/git.git
  git push -u origin master
