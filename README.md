@@ -18,3 +18,4 @@ git config --global user.email 'hgh@huangguohua.cn'<br/>
 常用命令<br/>
 git status //查看状态<br/>
 git reset --hard //消除暂存区<br/>
+git mv 旧文件名 新文件名 //文件改名
