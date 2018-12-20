@@ -1,11 +1,20 @@
-ÔÚÃüÁîĞĞÉÏ´´½¨Ò»¸öĞÂµÄ´æ´¢¿â<br/>
-echo¡°#git¡±>> README.md <br/>
-git init <br/>
-git add README.md <br/>
-git commit -m¡°first commit¡± <br/>
-git remote add origin https://github.com/jiayousoftstudio/git.git<br/>
-git push -u origin master<br/>
+ï»¿
+echoâ€œ#gitâ€>> README.md <br/>
+git init //åˆå§‹åŒ–<br/>
+git add README.md //æ·»åŠ æ–‡ä»¶<br/>
+git commit -mâ€œfirst commitâ€ //åŠ å…¥ä»“åº“<br/>
+git remote add origin https://github.com/jiayousoftstudio/git.git //ä»“åº“åœ°å€<br/>
+git push -u origin master  //æäº¤åˆ°ä»“åº“<br/>
 <br/>
-´ÓÃüÁîĞĞÍÆËÍÏÖÓĞ´æ´¢¿â<br/>
+ä»å‘½ä»¤è¡Œæ¨é€ç°æœ‰å­˜å‚¨åº“<br/>
 git remote add origin https://github.com/jiayousoftstudio/git.git<br/>
 git push -u origin master<br/>
+
+æœ€ç®€é…åˆ¶<br/>
+git config --global user.name 'huangguohua'<br/>
+git config --global user.email 'hgh@huangguohua.cn'<br/>
+--glbal   --local    --system<br/>
+<br/>
+å¸¸ç”¨å‘½ä»¤<br/>
+git status //æŸ¥çœ‹çŠ¶æ€<br/>
+git reset --hard //æ¶ˆé™¤æš‚å­˜åŒº<br/>
